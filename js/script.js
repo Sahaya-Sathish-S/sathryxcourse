@@ -10,8 +10,8 @@ const EVENT_CONFIG = {
   title: "SATHRYX — Generative AI + Python Workshop",
   description: "Build With AI. Think Beyond Code. SATHRYX Generative AI + Python Workshop.",
   location: "LIVE ONLINE WORKSHOP",
-  start: "", // Example: "20261015T100000"
-  end: ""    // Example: "20261015T130000"
+  start: "20260923T180000", // Example: "20261015T100000"
+  end: "20260923T200000"    // Example: "20261015T130000"
 };
 
 const form = document.getElementById("registrationForm");
